@@ -1,0 +1,23 @@
+{
+  "name": "backend-developer",
+  "version": "1.0.0",
+  "description": "\"pm2 services \"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit369/microservice-code.git"
+  },
+  "author": "Amit Chaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit369/microservice-code/issues"
+  },
+  "homepage": "https://github.com/amit369/microservice-code#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
